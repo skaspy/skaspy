@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sabine.
 - 👀 I’m interested in Java and Android App development.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on IT edu projects.
+- 👭I’m looking to collaborate on IT edu projects.
 - 🚲 I love road racing, Zwift and bikepacking.
 - 😀 she/her
 - 💻 I'm looking for a new developer job.
