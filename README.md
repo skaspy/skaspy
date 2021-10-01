@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sabine.
 - 😀 she/her
-- 👀 I’m interested in Java and Android App development.
+- 👀 I’m interested in Java and Android development.
 - 🌱 I’m currently learning JavaScript.
 - 👭 I’m looking to collaborate on IT edu projects.
-- 🚲 I love climbing and bikepacking.
+- 🚲 I love playing the clarinet, climbing and bikepacking.
 - 📫 How to reach me: bee.coding@gmx.de
