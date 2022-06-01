@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sabine.
-- 😀 she/her
+- 👋 Hi, Sabine here.
+- 👣 she/her
 - 👀 I’m interested in Java and Android development.
-- 🌱 I’m currently learning VueJS.
-- 👭 I’m looking to collaborate on IT edu projects.
+- 🌱 I’m currently learning VueJS and Laravel.
+- 🤝 I’m looking to collaborate on IT edu projects. I have history in teaching Computer Science and English.
 - 📫 How to reach me: bee.coding@gmx.de
