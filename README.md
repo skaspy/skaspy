@@ -1,6 +1,6 @@
 - 👋 Hi, Sabine here.
 - 👣 she/her
-- 👀 I’m interested in Java and Android development and love crafty Arduino and Raspi projects.
-- 🌱 I’m currently exploring the frameworks VueJS and Laravel.
-- 🤝 I’m looking to collaborate on IT edu projects since I have history in teaching Computer Science and English.
+- 👀 I am interested in Web and Android development and love crafty Arduino and Raspi projects.
+- 🌱 Currently I am exploring the Laravel framework.
+- 🤝 Since I have a history in teaching Computer Science and English, I am open to collaborations on IT edu projects.
 - 📫 How to reach me: bee.coding@gmx.de
